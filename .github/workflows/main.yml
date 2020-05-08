@@ -19,4 +19,4 @@ jobs:
         ls
         nuget restore
         msbuild org.arbweb.xam.ui.sln /p:Configuration=Release
-        nuget pack org.arbweb.xam.ui.0.5.2.nuspec
+        nuget pack org.arbweb.xam.ui.nuspec
