@@ -8,7 +8,7 @@ on:
 
 jobs:
   build:
-    runs-on: windows-latest
+    runs-on: macos-latest
 
     steps:
     - uses: actions/checkout@v2
@@ -16,7 +16,7 @@ jobs:
     - name: build the solution
       run: |
         cd "org.arbweb.xam.ui"
-        dir
+        ls
         nuget restore
         msbuild org.arbweb.xam.ui.sln
         nuget pack org.arbweb.xam.ui.0.5.2.nuspec
