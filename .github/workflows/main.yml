@@ -17,5 +17,6 @@ jobs:
       run: |
         cd "org.arbweb.xam.ui"
         dir
+        nuget restore
         msbuild org.arbweb.xam.ui.sln
         nuget pack org.arbweb.xam.ui.0.5.2.nuspec
