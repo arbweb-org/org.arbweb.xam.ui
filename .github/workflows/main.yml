@@ -17,4 +17,5 @@ jobs:
       run: |
         cd "org.arbweb.xam.ui"
         dir
-        #dotnet build
+        dotnet build org.arbweb.xam.ui.sln
+        nuget pack org.arbweb.xam.ui.0.5.2.nuspec
