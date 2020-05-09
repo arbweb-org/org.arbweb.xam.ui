@@ -14,9 +14,14 @@ jobs:
     - uses: actions/checkout@v2
 
     - name: build the solution
+      env:
+        nuget_key: ${{ secrets.arbweb_nuget_key }}
       run: |
         cd "org.arbweb.xam.ui"
         ls
         nuget restore
         msbuild org.arbweb.xam.ui.sln /p:Configuration=Release
         nuget pack org.arbweb.xam.ui.nuspec
+        
+        nuget setapikey "$nuget_key"
+        nuget push *.nupkg
