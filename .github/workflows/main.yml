@@ -17,11 +17,12 @@ jobs:
       env:
         nuget_key: ${{ secrets.arbweb_nuget_key }}
       run: |
-        cd "org.arbweb.xam.ui"
-        ls
-        nuget restore
-        msbuild org.arbweb.xam.ui.sln /p:Configuration=Release
-        nuget pack org.arbweb.xam.ui.nuspec
+        echo ${{github.event.commits[0].message}}
+        #cd "org.arbweb.xam.ui"
+        #ls
+        #nuget restore
+        #msbuild org.arbweb.xam.ui.sln /p:Configuration=Release
+        #nuget pack org.arbweb.xam.ui.nuspec
         
-        nuget setapikey "$nuget_key"
-        nuget push *.nupkg -Source https://api.nuget.org/v3/index.json -SkipDuplicate
+        #nuget setapikey "$nuget_key"
+        #nuget push *.nupkg -Source https://api.nuget.org/v3/index.json -SkipDuplicate
