@@ -24,4 +24,4 @@ jobs:
         nuget pack org.arbweb.xam.ui.nuspec
         
         nuget setapikey "$nuget_key"
-        nuget push *.nupkg
+        nuget push *.nupkg -Source https://api.nuget.org/v3/index.json -SkipDuplicate
