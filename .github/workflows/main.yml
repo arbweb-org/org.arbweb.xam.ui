@@ -5,17 +5,16 @@ on:
     branches: [ master ]
   pull_request:
     branches: [ master ]
-
+  
 jobs:
   _j_build:
     runs-on: macos-latest
-
+    if: "contains(github.event.head_commit.message, '_ci_')"
+    
     steps:
     - uses: actions/checkout@v2
-      if: "contains(github.event.head_commit.message, '_ci_')"
-
+      
     - name: _s_build
-      if: "contains(github.event.head_commit.message, '_ci_')"
       run: |
         cd "org.arbweb.xam.ui"
         nuget restore
