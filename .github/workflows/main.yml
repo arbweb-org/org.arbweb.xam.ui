@@ -25,6 +25,8 @@ jobs:
       env:
         nuget_key: ${{ secrets.arbweb_nuget_key }}
       run: |
+        ls
+        exit 1
         nuget pack org.arbweb.xam.ui.nuspec        
         nuget setapikey "$nuget_key"
         nuget push *.nupkg -Source https://api.nuget.org/v3/index.json -SkipDuplicate
