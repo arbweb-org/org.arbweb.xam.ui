@@ -1,22 +1,30 @@
-name: CICD
+name: _a_cicd
 
 on:
   push:
     branches: [ master ]
   pull_request:
     branches: [ master ]
-
+  
 jobs:
-  build:
+  _j_build:
     runs-on: macos-latest
-
+    if: "contains(github.event.head_commit.message, '_ci_')"
+    
     steps:
     - uses: actions/checkout@v2
-
-    - name: build the solution
+      
+    - name: _s_build
       run: |
         cd "org.arbweb.xam.ui"
-        ls
         nuget restore
         msbuild org.arbweb.xam.ui.sln /p:Configuration=Release
-        nuget pack org.arbweb.xam.ui.0.5.2.nuspec
+
+    - name: _s_publish
+      if: "contains(github.event.head_commit.message, '_cd_')"
+      env:
+        nuget_key: ${{ secrets.arbweb_nuget_key }}
+      run: |
+        nuget pack org.arbweb.xam.ui.nuspec        
+        nuget setapikey "$nuget_key"
+        nuget push *.nupkg -Source https://api.nuget.org/v3/index.json -SkipDuplicate
