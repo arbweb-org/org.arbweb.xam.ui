@@ -50,4 +50,4 @@ namespace org.arbweb.xam.ui
             action.Invoke(data);
         }
     }
-} 
+}
