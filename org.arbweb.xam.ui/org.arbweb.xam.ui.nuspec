@@ -2,7 +2,7 @@
 <package xmlns="http://schemas.microsoft.com/packaging/2012/06/nuspec.xsd">
   <metadata>
     <id>org.arbweb.xam.ui</id>
-    <version>0.5.3</version>
+    <version>0.6.0</version>
     <authors>arbweb.org</authors>
     <owners>arbweb.org</owners>
     <requireLicenseAcceptance>false</requireLicenseAcceptance>

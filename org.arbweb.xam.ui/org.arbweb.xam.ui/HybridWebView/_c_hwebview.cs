@@ -1,8 +1,10 @@
 ﻿using System;
 using Xamarin.Forms;
+using System.ComponentModel;
 
 namespace org.arbweb.xam.ui
 {
+    [DesignTimeVisible(true)]
     public class _c_hybridwebview : WebView
     {
         Action<string> action;

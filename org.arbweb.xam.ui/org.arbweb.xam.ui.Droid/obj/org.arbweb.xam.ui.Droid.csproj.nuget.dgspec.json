@@ -27,7 +27,6 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-          "D:\\Github\\arbweb-org\\arbweb.org\\org.arbweb.xam.ui": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -74,7 +73,6 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-          "D:\\Github\\arbweb-org\\arbweb.org\\org.arbweb.xam.ui": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {

@@ -1,9 +1,9 @@
 ﻿using System;
 using Xamarin.Forms;
+using System.ComponentModel;
 
 namespace org.arbweb.xam.ui
 {
-    public class _c_button : Button
-    {
-    }
+    [DesignTimeVisible(true)]
+    public class _c_button : Button { }
 }
