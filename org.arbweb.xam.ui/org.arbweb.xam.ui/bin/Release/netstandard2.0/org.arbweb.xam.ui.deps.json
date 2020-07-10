@@ -7,7 +7,7 @@
   "targets": {
     ".NETStandard,Version=v2.0": {},
     ".NETStandard,Version=v2.0/": {
-      "org.arbweb.xam.ui/0.5.3": {
+      "org.arbweb.xam.ui/0.7.1": {
         "dependencies": {
           "NETStandard.Library": "2.0.3",
           "Xamarin.Forms": "4.6.0.726"
@@ -41,7 +41,7 @@
     }
   },
   "libraries": {
-    "org.arbweb.xam.ui/0.5.3": {
+    "org.arbweb.xam.ui/0.7.1": {
       "type": "project",
       "serviceable": false,
       "sha512": ""

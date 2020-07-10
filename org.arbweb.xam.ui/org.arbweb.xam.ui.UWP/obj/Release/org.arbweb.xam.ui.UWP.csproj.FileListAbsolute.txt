@@ -5,6 +5,7 @@ D:\Github\arbweb-org\org.arbweb.xam.ui\org.arbweb.xam.ui\org.arbweb.xam.ui.UWP\b
 D:\Github\arbweb-org\org.arbweb.xam.ui\org.arbweb.xam.ui\org.arbweb.xam.ui.UWP\bin\Release\org.arbweb.xam.ui.dll
 D:\Github\arbweb-org\org.arbweb.xam.ui\org.arbweb.xam.ui\org.arbweb.xam.ui.UWP\bin\Release\org.arbweb.xam.ui.pdb
 D:\Github\arbweb-org\org.arbweb.xam.ui\org.arbweb.xam.ui\org.arbweb.xam.ui.UWP\obj\Release\org.arbweb.xam.ui.UWP.csprojAssemblyReference.cache
+D:\Github\arbweb-org\org.arbweb.xam.ui\org.arbweb.xam.ui\org.arbweb.xam.ui.UWP\obj\Release\org.arbweb.xam.ui.UWP.csproj.CoreCompileInputs.cache
 D:\Github\arbweb-org\org.arbweb.xam.ui\org.arbweb.xam.ui\org.arbweb.xam.ui.UWP\obj\Release\XamlC.stamp
 D:\Github\arbweb-org\org.arbweb.xam.ui\org.arbweb.xam.ui\org.arbweb.xam.ui.UWP\obj\Release\org.arbweb.xam.ui.UWP.csproj.CopyComplete
 D:\Github\arbweb-org\org.arbweb.xam.ui\org.arbweb.xam.ui\org.arbweb.xam.ui.UWP\obj\Release\Microsoft.UI.Xaml.pri.xml

@@ -123,7 +123,7 @@
           "buildTransitive/Xamarin.Forms.targets": {}
         }
       },
-      "org.arbweb.xam.ui/0.5.3": {
+      "org.arbweb.xam.ui/0.7.1": {
         "type": "project",
         "framework": ".NETStandard,Version=v2.0",
         "dependencies": {
@@ -452,7 +452,7 @@
         "xamarin.forms.nuspec"
       ]
     },
-    "org.arbweb.xam.ui/0.5.3": {
+    "org.arbweb.xam.ui/0.7.1": {
       "type": "project",
       "path": "../org.arbweb.xam.ui/org.arbweb.xam.ui.csproj",
       "msbuildProject": "../org.arbweb.xam.ui/org.arbweb.xam.ui.csproj"
@@ -460,7 +460,7 @@
   },
   "projectFileDependencyGroups": {
     "Xamarin.iOS,Version=v1.0": [
-      "org.arbweb.xam.ui >= 0.5.3"
+      "org.arbweb.xam.ui >= 0.7.1"
     ]
   },
   "packageFolders": {

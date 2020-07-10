@@ -13,8 +13,8 @@ using System.Reflection;
 
 [assembly: System.Reflection.AssemblyCompanyAttribute("arbweb.org")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
-[assembly: System.Reflection.AssemblyDescriptionAttribute("Cross platform ui controls for Xamarin Forms: Android, iOS, and UWP.\n- HybridWebV" +
-    "iew\n- Button\n- TextBox")]
+[assembly: System.Reflection.AssemblyDescriptionAttribute("Cross platform ui controls for Xamarin Forms: Android, iOS, and UWP.\r\n- HybridWeb" +
+    "View\r\n- Button\r\n- TextBox")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("0.5.3.0")]
 [assembly: System.Reflection.AssemblyInformationalVersionAttribute("0.5.3")]
 [assembly: System.Reflection.AssemblyProductAttribute("org.arbweb.xam.ui")]

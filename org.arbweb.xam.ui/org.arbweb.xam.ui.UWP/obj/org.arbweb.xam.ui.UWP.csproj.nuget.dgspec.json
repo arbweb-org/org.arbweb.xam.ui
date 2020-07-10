@@ -45,7 +45,7 @@
           "dependencies": {
             "Microsoft.NETCore.UniversalWindowsPlatform": {
               "target": "Package",
-              "version": "[6.2.10, )"
+              "version": "[6.2.9, )"
             }
           },
           "imports": [
@@ -80,7 +80,7 @@
       }
     },
     "D:\\Github\\arbweb-org\\org.arbweb.xam.ui\\org.arbweb.xam.ui\\org.arbweb.xam.ui\\org.arbweb.xam.ui.csproj": {
-      "version": "0.5.3",
+      "version": "0.7.1",
       "restore": {
         "projectUniqueName": "D:\\Github\\arbweb-org\\org.arbweb.xam.ui\\org.arbweb.xam.ui\\org.arbweb.xam.ui\\org.arbweb.xam.ui.csproj",
         "projectName": "org.arbweb.xam.ui",
@@ -139,7 +139,7 @@
           ],
           "assetTargetFallback": true,
           "warn": true,
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.101\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.301\\RuntimeIdentifierGraph.json"
         }
       }
     }

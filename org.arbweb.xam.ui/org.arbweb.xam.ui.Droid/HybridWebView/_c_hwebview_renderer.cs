@@ -34,6 +34,7 @@ namespace org.arbweb.xam.ui.Droid
                 Control.Settings.AllowUniversalAccessFromFileURLs = true;
                 Control.Settings.DatabaseEnabled = true;
                 Control.Settings.DomStorageEnabled = true;
+                Control.Settings.SetGeolocationEnabled(true);
                 Control.Settings.MediaPlaybackRequiresUserGesture = false;
                 Control.Settings.SafeBrowsingEnabled = false;
 

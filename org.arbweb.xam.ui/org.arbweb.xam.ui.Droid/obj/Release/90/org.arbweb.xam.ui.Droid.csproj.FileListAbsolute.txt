@@ -1,6 +1,7 @@
 D:\Github\arbweb-org\org.arbweb.xam.ui\org.arbweb.xam.ui\org.arbweb.xam.ui.Droid\bin\Release\org.arbweb.xam.ui.Droid.dll
 D:\Github\arbweb-org\org.arbweb.xam.ui\org.arbweb.xam.ui\org.arbweb.xam.ui.Droid\bin\Release\org.arbweb.xam.ui.Droid.pdb
 D:\Github\arbweb-org\org.arbweb.xam.ui\org.arbweb.xam.ui\org.arbweb.xam.ui.Droid\bin\Release\org.arbweb.xam.ui.Droid.apk
+D:\Github\arbweb-org\org.arbweb.xam.ui\org.arbweb.xam.ui\org.arbweb.xam.ui.Droid\bin\Release\org.arbweb.xam.ui.Droid.aab
 D:\Github\arbweb-org\org.arbweb.xam.ui\org.arbweb.xam.ui\org.arbweb.xam.ui.Droid\bin\Release\org.arbweb.xam.ui.Droid-Signed.aab
 D:\Github\arbweb-org\org.arbweb.xam.ui\org.arbweb.xam.ui\org.arbweb.xam.ui.Droid\bin\Release\org.arbweb.xam.ui.Droid-Signed.apk
 D:\Github\arbweb-org\org.arbweb.xam.ui\org.arbweb.xam.ui\org.arbweb.xam.ui.Droid\bin\Release\org.arbweb.xam.ui.dll
@@ -11,8 +12,6 @@ D:\Github\arbweb-org\org.arbweb.xam.ui\org.arbweb.xam.ui\org.arbweb.xam.ui.Droid
 D:\Github\arbweb-org\org.arbweb.xam.ui\org.arbweb.xam.ui\org.arbweb.xam.ui.Droid\obj\Release\90\org.arbweb.xam.ui.Droid.csprojAssemblyReference.cache
 D:\Github\arbweb-org\org.arbweb.xam.ui\org.arbweb.xam.ui\org.arbweb.xam.ui.Droid\obj\Release\90\_VerifyXamarinAndroidSupportVersions.stamp
 D:\Github\arbweb-org\org.arbweb.xam.ui\org.arbweb.xam.ui\org.arbweb.xam.ui.Droid\obj\Release\90\stamp\_BuildLibraryImportsCache.stamp
-D:\Github\arbweb-org\org.arbweb.xam.ui\org.arbweb.xam.ui\org.arbweb.xam.ui.Droid\obj\Release\90\resourcepaths.cache
-D:\Github\arbweb-org\org.arbweb.xam.ui\org.arbweb.xam.ui\org.arbweb.xam.ui.Droid\obj\Release\90\resourcecache.stamp
 D:\Github\arbweb-org\org.arbweb.xam.ui\org.arbweb.xam.ui\org.arbweb.xam.ui.Droid\obj\Release\90\res.flag
 D:\Github\arbweb-org\org.arbweb.xam.ui\org.arbweb.xam.ui\org.arbweb.xam.ui.Droid\obj\Release\90\flata\19351DF916BB78AC.stamp
 D:\Github\arbweb-org\org.arbweb.xam.ui\org.arbweb.xam.ui\org.arbweb.xam.ui.Droid\obj\Release\90\flata\5D71723003BB6594.stamp
@@ -38,6 +37,7 @@ D:\Github\arbweb-org\org.arbweb.xam.ui\org.arbweb.xam.ui\org.arbweb.xam.ui.Droid
 D:\Github\arbweb-org\org.arbweb.xam.ui\org.arbweb.xam.ui\org.arbweb.xam.ui.Droid\obj\Release\90\R.txt
 D:\Github\arbweb-org\org.arbweb.xam.ui\org.arbweb.xam.ui\org.arbweb.xam.ui.Droid\obj\Release\90\R.cs.flag
 D:\Github\arbweb-org\org.arbweb.xam.ui\org.arbweb.xam.ui\org.arbweb.xam.ui.Droid\obj\Release\90\__AndroidLibraryProjects__.zip
+D:\Github\arbweb-org\org.arbweb.xam.ui\org.arbweb.xam.ui\org.arbweb.xam.ui.Droid\obj\Release\90\org.arbweb.xam.ui.Droid.csproj.CoreCompileInputs.cache
 D:\Github\arbweb-org\org.arbweb.xam.ui\org.arbweb.xam.ui\org.arbweb.xam.ui.Droid\obj\Release\90\XamlC.stamp
 D:\Github\arbweb-org\org.arbweb.xam.ui\org.arbweb.xam.ui\org.arbweb.xam.ui.Droid\obj\Release\90\org.arbweb.xam.ui.Droid.csproj.CopyComplete
 D:\Github\arbweb-org\org.arbweb.xam.ui\org.arbweb.xam.ui\org.arbweb.xam.ui.Droid\obj\Release\90\org.arbweb.xam.ui.Droid.dll
@@ -48,8 +48,7 @@ D:\Github\arbweb-org\org.arbweb.xam.ui\org.arbweb.xam.ui\org.arbweb.xam.ui.Droid
 D:\Github\arbweb-org\org.arbweb.xam.ui\org.arbweb.xam.ui\org.arbweb.xam.ui.Droid\obj\Release\90\android\bin\org.arbweb.xam.ui.Droid.apks
 D:\Github\arbweb-org\org.arbweb.xam.ui\org.arbweb.xam.ui\org.arbweb.xam.ui.Droid\obj\Release\90\res\values\strings.xml
 D:\Github\arbweb-org\org.arbweb.xam.ui\org.arbweb.xam.ui\org.arbweb.xam.ui.Droid\obj\Release\90\uploadflags.txt
-D:\Github\arbweb-org\org.arbweb.xam.ui\org.arbweb.xam.ui\org.arbweb.xam.ui.Droid\obj\Release\90\stamp\_BuildAdditionalResourcesCache.stamp
-D:\Github\arbweb-org\org.arbweb.xam.ui\org.arbweb.xam.ui\org.arbweb.xam.ui.Droid\obj\Release\90\stamp\_CleanIntermediateIfNuGetsChange.stamp
+D:\Github\arbweb-org\org.arbweb.xam.ui\org.arbweb.xam.ui\org.arbweb.xam.ui.Droid\obj\Release\90\stamp\_CleanIntermediateIfNeeded.stamp
 D:\Github\arbweb-org\org.arbweb.xam.ui\org.arbweb.xam.ui\org.arbweb.xam.ui.Droid\obj\Release\90\stamp\_ConvertLibraryResourcesCases.stamp
 D:\Github\arbweb-org\org.arbweb.xam.ui\org.arbweb.xam.ui\org.arbweb.xam.ui.Droid\obj\Release\90\stamp\_ConvertResourcesCases.stamp
 D:\Github\arbweb-org\org.arbweb.xam.ui\org.arbweb.xam.ui\org.arbweb.xam.ui.Droid\obj\Release\90\stamp\_ResolveLibraryProjectImports.stamp

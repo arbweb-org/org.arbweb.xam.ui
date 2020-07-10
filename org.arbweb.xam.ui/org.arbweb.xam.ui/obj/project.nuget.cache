@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "xnBA7wgCu9ovnhSTuuw6LJ6RYu4eR9sofnXXF5zm+S1cy3pfTs7JzViMkjNAlnlQ+PNBYMlUH2zKmcQ5ksWyNQ==",
+  "success": true,
+  "projectFilePath": "D:\\Github\\arbweb-org\\org.arbweb.xam.ui\\org.arbweb.xam.ui\\org.arbweb.xam.ui\\org.arbweb.xam.ui.csproj",
+  "expectedPackageFiles": [
+    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512",
+    "C:\\Users\\akcor\\.nuget\\packages\\xamarin.forms\\4.6.0.726\\xamarin.forms.4.6.0.726.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "+pqH1tJVUThkgZWWJPH9sDXx6zd1qGCMxBY3wsMpptxa9jIZXhya1+vM9QMOP22V6030m7Ho1iD43XcZ10bDzQ==",
+  "success": true,
+  "projectFilePath": "D:\\Github\\arbweb-org\\org.arbweb.xam.ui\\org.arbweb.xam.ui\\org.arbweb.xam.ui.iOS\\org.arbweb.xam.ui.iOS.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\akcor\\.nuget\\packages\\xamarin.forms\\4.6.0.726\\xamarin.forms.4.6.0.726.nupkg.sha512"
+  ],
+  "logs": []
+}
